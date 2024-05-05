@@ -1,0 +1,6 @@
+- To ensure consistent dependencies, create a requirements.txt file in backend/ with the following content:
+
+- flask
+- flask-cors
+- pymongo
+- celery
